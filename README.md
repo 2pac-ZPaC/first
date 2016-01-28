@@ -8,4 +8,4 @@ no？
 
 pull test
 
-gihub sucks！
+clear!!
