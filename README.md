@@ -2,10 +2,4 @@
 just for test
 add something
 
-yes?
-
-no？
-
-pull test
-
-clear!!
+试试pull request
